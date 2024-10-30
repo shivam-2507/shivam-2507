@@ -9,7 +9,7 @@ Hello! I’m Shivam, a mechatronics engineering student passionate about develop
 
 ---
 
-## 🛠️ Experience Highlights
+## 🛠️ Experiences
 - Designed and implemented automation systems to improve efficiency and precision.
 - Developed and programmed robotic systems for tasks like object detection, autonomous navigation, and manipulation.
 - Built interactive hardware prototypes using microcontrollers like Arduino and ESP32.
