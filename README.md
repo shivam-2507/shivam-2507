@@ -13,7 +13,7 @@ Hello! I’m Shivam, a Mechatronics Engineering student at the University of Wat
 - **Automation Systems**: Designed and implemented systems to improve efficiency and precision.
 - **Robotics Projects**: Built and programmed robots for tasks like object detection, autonomous navigation, and manipulation.
 - **Interactive Hardware Prototypes**: Created prototypes with microcontrollers like Arduino and ESP32.
-- **Innovation Award**: Led a robotics project that reached the provincial championship, winning an **Innovation Award** for design and autonomous algorithms.
+- **Innovation Award**: Led a robotics project that reached the provincial championship, winning an **Innovation** and **Think Award** for design and autonomous algorithms.
 
 ---
 
