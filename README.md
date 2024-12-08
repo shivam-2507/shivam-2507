@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me
-Hello! I’m Shivam, a Mechatronics Engineering student at the University of Waterloo, driven xby a passion for **hardware** and **automation solutions**. I have a strong foundation in robotics, embedded systems, and control systems. I love leveraging technology to solve real-world challenges, especially through innovative robotic systems and automation solutions.
+Hello! I’m Shivam, a Mechatronics Engineering student at the University of Waterloo, driven by a passion for **hardware** and **automation solutions**. I have a strong foundation in robotics, embedded systems, and control systems. I love leveraging technology to solve real-world challenges, especially through innovative robotic systems and automation solutions.
 
 ---
 
