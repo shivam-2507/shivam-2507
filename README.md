@@ -47,6 +47,7 @@ Embedded Systems, Robotics, Automation, Control Systems
 - **Data Structures & Algorithms**: Enhancing problem-solving skills for optimized software solutions.
 - **ROS (Robot Operating System)**: Expanding capabilities in robot development, simulation, and deployment.
 - **Advanced Control Systems**: Delving deeper into control theory to improve system stability and performance.
+- **FreeRTOS**: Gaining knowledge of real-time operating systems for embedded system development and multitasking.
 
 ---
 
