@@ -52,8 +52,7 @@ Embedded Systems, Robotics, Automation, Control Systems
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-walia1/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivam-2507)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-walia1/)    
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivamwalia_/)
 
 Feel free to explore my repositories and projects! If you have an idea or challenge in robotics, automation, or embedded systems, let’s connect and collaborate! 🚀
