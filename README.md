@@ -18,10 +18,10 @@ Hello! I’m Shivam, a Mechatronics Engineering student at the University of Wat
 **Other Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 💻 **Tools/Technologies**  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -52,7 +52,16 @@ Embedded Systems, Robotics, Automation, Control Systems
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-walia1/)    
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivamwalia_/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/shivam-walia1/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-walia" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/shivamwalia_/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamwalia_" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@Shivam-kx9ef" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivam-kx9ef" height="30" width="40" />
+  </a>
+</p>
 
 Feel free to explore my repositories and projects! If you have an idea or challenge in robotics, automation, or embedded systems, let’s connect and collaborate! 🚀
