@@ -50,17 +50,16 @@ Embedded Systems, Robotics, Automation, Control Systems
 - **FreeRTOS**: Gaining knowledge of real-time operating systems for embedded system development and multitasking.
 
 ---
-
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/shivam-walia1/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-walia" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/shivam-walia1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/shivamwalia_/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamwalia_" height="30" width="40" />
+  <a href="https://twitter.com/shivamwalia_" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.youtube.com/@Shivam-kx9ef" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivam-kx9ef" height="30" width="40" />
+  <a href="https://www.youtube.com/@Shivam-kx9ef" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
