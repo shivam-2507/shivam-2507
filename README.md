@@ -17,8 +17,11 @@ Mechatronics Engineering student at **UWaterloo**, specializing in robotics, emb
 **Tools/Technologies**  
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-000000?style=for-the-badge&logo=platformio&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-000000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=for-the-badge&logo=autodesk&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-000000?style=for-the-badge&logo=ros&logoColor=white)
+
 
 **Technical Skills**  
 Embedded Systems, Robotics, Automation, Control Systems
