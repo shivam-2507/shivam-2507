@@ -22,7 +22,6 @@ Mechatronics Engineering student at **UWaterloo**, specializing in robotics, emb
 ![ROS2](https://img.shields.io/badge/ROS2-000000?style=for-the-badge&logo=ros&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
 
-This will display the React logo in the badge. If you need any more customization or have other questions, feel free to ask!
 **Tools/Technologies**  
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
