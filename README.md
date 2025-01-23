@@ -31,10 +31,6 @@ Mechatronics Engineering student at **UWaterloo**, specializing in robotics, emb
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=for-the-badge&logo=autodesk&logoColor=white)
 
 
-**Technical Skills**  
-Embedded Systems, Robotics, Automation, Control Systems
-
-
 ### Currently Learning and Working With
 - **Data Structures & Algorithms**: Improving problem-solving for efficient software.
 - **ROS (Robot Operating System)**: Learning robot development, simulation, and deployment.
@@ -46,19 +42,4 @@ Embedded Systems, Robotics, Automation, Control Systems
 - Developed interactive hardware prototypes using microcontrollers like Arduino and ESP32.
 - Built and programmed robots for tasks like object detection, autonomous navigation, and manipulation.
 - Created full-stack project for hackathons, developing both the front-end and back-end to deliver functional and user-friendly applications.
-
-
----
-### Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/shivam-walia1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/shivamwalia_" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.youtube.com/@Shivam-kx9ef" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
 
