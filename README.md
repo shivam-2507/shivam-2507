@@ -29,6 +29,7 @@ Mechatronics Engineering student at **UWaterloo**, specializing in robotics, emb
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-000000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=for-the-badge&logo=autodesk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 
 ### Currently Learning and Working With
