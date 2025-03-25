@@ -15,7 +15,7 @@
   <a href="https://x.com/shivamwalia_" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-X-000?style=for-the-badge&amp;logo=x&amp;logoColor=white&amp;link=https://x.com/shivamwalia_" alt="https://x.com/shivamwalia_">
   </a>
-  <a href="https://www.linkedin.com/in/shivamwalia1013" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/shivamwalia1013" alt="https://www.linkedin.com/in/shivamwalia1013">
+  <a href="https://www.linkedin.com/in/shivam-walia1/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/shivam-walia1/" alt="https://www.linkedin.com/in/shivam-walia1/">
   </a>
 </p>
