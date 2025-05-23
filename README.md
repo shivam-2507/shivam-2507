@@ -7,15 +7,3 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-
-<p style="text-decoration:none;">
-  <a href="https://shivamwalia.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://shivamwalia.com" alt="https://shivamwalia.com">
-  </a>
-  <a href="https://x.com/shivamwalia_" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-X-000?style=for-the-badge&amp;logo=x&amp;logoColor=white&amp;link=https://x.com/shivamwalia_" alt="https://x.com/shivamwalia_">
-  </a>
-  <a href="https://www.linkedin.com/in/shivam-walia1/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/shivam-walia1/" alt="https://www.linkedin.com/in/shivam-walia1/">
-  </a>
-</p>
