@@ -1,5 +1,5 @@
 # Shivam Walia
-#### Mechatronics Engineering student at **UWaterloo**. Working on dynamics, perception, mapping, and simulation for robots. 
+#### Mechatronics Engineering student at **UWaterloo**. Working on dynamics, perception, mapping, and simulation to improve human robot interaction. 
 
 ---
 
